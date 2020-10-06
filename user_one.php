@@ -1,3 +1,3 @@
 <?php
 session_start();
-$_SESSION['username'] = "First User";
+$_SESSION['username'] = "Your name";
